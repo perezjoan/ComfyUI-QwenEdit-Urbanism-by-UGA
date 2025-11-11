@@ -1,22 +1,20 @@
 # 🏙️ ComfyUI-QwenEdit-Urbanism-by-UGA
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A collection of **ComfyUI workflows and custom nodes** designed for **urbanism**, **architecture**, and **geospatial visualization**, developed by **Urban Geo Analytics (UGA)**.  
-This repository focuses on fully **local and offline** pipelines powered by **Qwen Image Edit (GGUF)** and complementary custom nodes for practical urban applications.
+A collection of **ComfyUI workflows and custom nodes** designed for **urbanism** and **architecture**, developed by **Urban Geo Analytics (UGA)**.  
+This repository focuses on pipelines powered by **Qwen Image Edit (GGUF)** and complementary custom nodes for practical urban applications.
 
 ---
 
 ## 🧠 Qwen Image Edit for Urbanism
 
-This module integrates **Qwen-Image-Edit (GGUF format)** into ComfyUI for fully **local** and **offline** visual editing.  
-It performs **semantic image modifications** using natural-language prompts, ideal for **urban design**, **streetscape transformation**, and **architectural visualization**.
+v1.0 
+This first version of Qwen Image Edit for Urbanism uses the base Qwen-Image-Edit-2509 model in GGUF format, designed for fully local and offline visual editing. It operates on a single input image, with output size automatically adapted to the original image ratio. The workflow is lightweight and stable, ideal for quick urban or architectural edits on mid-range GPUs.
 
-The workflow adapts automatically to the input image ratio and includes adjustable parameters such as **CFG**, **denoise**, and **steps**, providing precise control and reproducible results even on **mid-range GPUs (6–8 GB VRAM)**.
+v1.1
+This version introduces advanced sampling and multi-image editing capabilities.
+[v1.1 tutorial on Urban Geo Analytics](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/)
 
-Example prompts:
-- “Add trees and benches along the sidewalk”  
-- “Change the building to have shops on the ground floor”  
-- “Turn this street into a pedestrian plaza”  
 
 ---
 
