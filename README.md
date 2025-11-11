@@ -8,27 +8,24 @@ All processing runs fully offline — no API, no cloud — making it ideal for a
 
 ---
 
-## 🧠 Qwen Image Edit for Urbanism
+## 🧠 1. Qwen Image Edit for Urbanism : Comfy Pipelines  
 
-v1.0 
-This version uses the **base Qwen-Image-Edit-2509 model (GGUF)**, optimized for lightweight, offline visual editing.  
-It operates on a **single input image**, with automatic adaptation to the original aspect ratio.  
-The workflow is **stable, simple, and efficient**, perfect for quick edits on mid-range GPUs.
-📘 [Read the v1.0 tutorial on Urban Geo Analytics →](https://urbangeoanalytics.com/local-ai-image-editing-urbanism-comfyui-qwen-gguf/)
-
-v1.1
-This version introduces **advanced sampling** and **multi-image editing capabilities** enabling compositional control.
-Performance improvements allow more consistent visual coherence across edits.
-[v1.1 tutorial on Urban Geo Analytics](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/)
+| Version | Description | Tutorial |
+|----------|--------------|-----------|
+| **v1.0** | Basic Qwen Image Edit workflow for single-image editing. Adapts automatically to input ratio and size. | [v1.0 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-urbanism-comfyui-qwen-gguf/) |
+| **v1.1** | Adds multi-image editing and advanced sampling capabilities for complex scenes. | [v1.1 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/) |
 
 
 ---
 
-## 🎲 Random Image Selector Node
+### ⚙️ 2. Custom Nodes 
 
-Includes a lightweight custom node — **RandomImageSelector** — that randomly selects one image from multiple inputs.  
-Useful for dataset exploration, visual sampling, or random input selection in multi-image workflows.
+Custom nodes developed for urban image processing and automation within ComfyUI.
 
+| Node Name | Function | Description |
+|------------|-----------|--------------|
+| 🎲 **Random Image Selector** | Randomly selects one image among several inputs each run. | Useful for stochastic rendering. |
+| 🔁 **Sequential Image Loader** | Loads each connected image in order across executions. | Ideal for batch processing. |
 
 
 ---
