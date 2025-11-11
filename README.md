@@ -1,5 +1,7 @@
 # 🏙️ ComfyUI-QwenEdit-Urbanism-by-UGA
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![ComfyUI](https://img.shields.io/badge/Compatible%20with-ComfyUI-blue)](https://github.com/comfyanonymous/ComfyUI)
+[![Urban Geo Analytics](https://img.shields.io/badge/By-Urban%20Geo%20Analytics-orange)](https://urbangeoanalytics.com)
 
 A collection of **ComfyUI workflows and custom nodes** designed for **urbanism** and **architecture**, developed by **Urban Geo Analytics (UGA)**.  
 This repository focuses on pipelines powered by **Qwen Image Edit (GGUF)** and complementary custom nodes for practical urban applications.
