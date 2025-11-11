@@ -10,6 +10,7 @@ This repository focuses on pipelines powered by **Qwen Image Edit (GGUF)** and c
 
 v1.0 
 This first version of Qwen Image Edit for Urbanism uses the base Qwen-Image-Edit-2509 model in GGUF format, designed for fully local and offline visual editing. It operates on a single input image, with output size automatically adapted to the original image ratio. The workflow is lightweight and stable, ideal for quick urban or architectural edits on mid-range GPUs.
+[v1.0 tutorial on Urban Geo Analytics](https://urbangeoanalytics.com/local-ai-image-editing-urbanism-comfyui-qwen-gguf/)
 
 v1.1
 This version introduces advanced sampling and multi-image editing capabilities.
