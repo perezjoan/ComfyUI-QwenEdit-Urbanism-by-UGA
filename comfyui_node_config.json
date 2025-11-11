@@ -1,0 +1,14 @@
+{
+    "name": "ComfyUI-QwenEdit-Urbanism-by-UGA",
+    "author": "Urban Geo Analytics",
+    "description": "Custom nodes for local urban and architectural AI editing using Qwen-Image-Edit (GGUF).",
+    "version": "1.0.0",
+    "repository": "https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA",
+    "tags": [
+        "urbanism",
+        "gguf",
+        "qwen",
+        "architecture",
+        "image-editing"
+    ]
+}
