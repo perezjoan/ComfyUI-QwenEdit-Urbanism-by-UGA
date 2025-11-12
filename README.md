@@ -15,8 +15,7 @@ All processing runs fully offline — no API, no cloud — making it ideal for a
 | **v1.0** | Basic Qwen Image Edit workflow for single-image editing. Adapts automatically to input ratio and size. | [v1.0 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-urbanism-comfyui-qwen-gguf/) |
 | **v1.1** | Adds multi-image editing and advanced sampling capabilities for complex scenes. | [v1.1 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/) |
 
-## 📦 Download ComfyUI Workflows
-
+### Download 
 | Version | Workflow File |
 |---|---|
 | v1.0 | [Download Qwen-Edit-UGA-v1.0.json](https://raw.githubusercontent.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/main/Qwen-Edit-UGA-v1.0.json) |
@@ -24,7 +23,7 @@ All processing runs fully offline — no API, no cloud — making it ideal for a
 
 ---
 
-### ⚙️ 2. Custom Nodes 
+## ⚙️ 2. Custom Nodes 
 
 Custom nodes developed for urban image processing and automation within ComfyUI.
 
@@ -33,7 +32,7 @@ Custom nodes developed for urban image processing and automation within ComfyUI.
 | 🎲 **Random Image Selector** | Randomly selects one image among several inputs each run. | For stochastic rendering. |
 | 🔁 **Sequential Image Loader** | Loads each connected image in order across executions. | For batch processing. |
 
-## 🧩 Installation
+# 🧩 Installation
 
 ### 🖥️ Option 1 — ComfyUI Manager (Recommended)
 1. Open **ComfyUI → Manager → Custom Nodes → Install from Git URL.**
@@ -53,13 +52,13 @@ The nodes will appear under **image/sequence** and **image/random** categories.
 
 ---
 
-### 🧩 Credits
+## 🧩 Credits
 Developed by **Urban Geo Analytics (UGA)**  
 Based on open-source work by **QuantStack**, **ComfyUI**, and **Qwen Image Edit** contributors.
 
 ---
 
-### 🪪 License
+## 🪪 License
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
