@@ -12,7 +12,7 @@
 | Version | Description | Tutorial |
 |----------|--------------|-----------|
 | **v1.0** | Basic Qwen Image Edit workflow for single-image editing. Adapts automatically to input ratio and size. | [v1.0 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-urbanism-comfyui-qwen-gguf/) |
-| **v1.1** | Adds multi-image editing and advanced sampling capabilities for complex scenes. | [v1.1 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/) |
+| **v1.1** | Adds image editing from a reference image and advanced sampling capabilities for complex scenes. | [v1.1 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/) |
 
 ### Download 
 Right-click any link above and choose **“Save link as…”** to download the workflow file. Then, open **ComfyUI → File → Load → Workflow**, and select the downloaded `.json` file to load it into your workspace.
