@@ -1,2 +1,2 @@
-from .random_image_selector_final import *
+from .random_image_selector import *
 from .sequential_image_selector import *
