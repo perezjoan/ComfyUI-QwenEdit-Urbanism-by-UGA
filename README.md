@@ -14,7 +14,7 @@
 | **v1.0** | Basic Qwen Image Edit workflow for single-image editing. Adapts automatically to input ratio and size. | [v1.0 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-urbanism-comfyui-qwen-gguf/) |
 | **v1.1** | Adds image editing from a reference image and advanced sampling capabilities for complex scenes. | [v1.1 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/) |
 
-### Download 
+### Download the Workflows
 Right-click any link above and choose **“Save link as…”** to download the workflow file. Then, open **ComfyUI → File → Load → Workflow**, and select the downloaded `.json` file to load it into your workspace.
 | Version | Workflow File |
 |---|---|
@@ -41,7 +41,7 @@ Custom nodes developed for urban image processing and automation within ComfyUI.
    Navigate to your ComfyUI directory:
 ComfyUI/custom_nodes/
 5. Clone or download our repository and put the QwenUrbanismNodes folder in your custom_nodes directory
-git clone https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA.git
+https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA.git
 6. Restart **ComfyUI.**
 
 The nodes will appear under **image/sequence** and **image/random** categories.
