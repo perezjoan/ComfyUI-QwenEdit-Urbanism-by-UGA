@@ -32,7 +32,7 @@ Custom nodes developed for urban image processing and automation within ComfyUI.
 | 🎲 **Random Image Selector** | Randomly selects one image among several inputs each run. | For stochastic rendering. |
 | 🔁 **Sequential Image Loader** | Loads each connected image in order across executions. | For batch processing. |
 
-# 🧩 Installation
+## 🧩 Installation
 
 ### 🖥️ Option 1 — ComfyUI Manager (Recommended)
 1. Open **ComfyUI → Manager → Custom Nodes → Install from Git URL.**
