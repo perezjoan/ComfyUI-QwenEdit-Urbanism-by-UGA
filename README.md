@@ -18,8 +18,8 @@ All processing runs fully offline — no API, no cloud — making it ideal for a
 ### Download 
 | Version | Workflow File |
 |---|---|
-| v1.0 | [Download Qwen-Edit-UGA-v1.0.json](https://raw.githubusercontent.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/main/Qwen-Edit-UGA-v1.0.json) |
-| v1.1 | [Download Gwen-Edit-UGA-v1.1.json](https://raw.githubusercontent.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/main/Qwen-Edit-UGA-v1.1.json) |
+| v1.0 | [Download Qwen-Edit-UGA-v1.0.json](https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/blob/main/Qwen-Edit-UGA-v1.0.json) |
+| v1.1 | [Download Gwen-Edit-UGA-v1.1.json](https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/blob/main/Qwen-Edit-UGA-v1.1.json) |
 
 ---
 
