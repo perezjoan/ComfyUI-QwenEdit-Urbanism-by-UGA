@@ -3,8 +3,7 @@
 [![ComfyUI](https://img.shields.io/badge/Compatible%20with-ComfyUI-blue)](https://github.com/comfyanonymous/ComfyUI)
 [![Urban Geo Analytics](https://img.shields.io/badge/By-Urban%20Geo%20Analytics-orange)](https://urbangeoanalytics.com)
 
-**Qwen Image Edit for Urbanism** brings localized, text-driven image editing to urban and architectural workflows using the open-source **Qwen-Image-Edit** model in **GGUF format**.  
-All processing runs fully offline — no API, no cloud — making it ideal for architects, planners, and researchers who need privacy, reproducibility, and full visual control.
+**Qwen Image Edit for Urbanism** brings localized, text-driven image editing to urban and architectural workflows using the open-source **Qwen-Image-Edit** model in **GGUF format**. All processing runs fully offline — no API, no cloud — making it ideal for architects, planners, and researchers who need privacy, reproducibility, and full visual control.
 
 ---
 
@@ -16,6 +15,7 @@ All processing runs fully offline — no API, no cloud — making it ideal for a
 | **v1.1** | Adds multi-image editing and advanced sampling capabilities for complex scenes. | [v1.1 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/) |
 
 ### Download 
+Right-click any link above and choose **“Save link as…”** to download the workflow file. Then, open **ComfyUI → File → Load → Workflow**, and select the downloaded `.json` file to load it into your workspace.
 | Version | Workflow File |
 |---|---|
 | v1.0 | [Download Qwen-Edit-UGA-v1.0.json](https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/blob/main/Qwen-Edit-UGA-v1.0.json) |
