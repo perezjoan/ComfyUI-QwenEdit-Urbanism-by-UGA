@@ -30,13 +30,11 @@ Custom nodes developed for urban image processing and automation within ComfyUI.
 ## 🧩 Installation
 
 ### 🖥️ Option 1 — ComfyUI Manager (Recommended)
-https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA
 1. Open **ComfyUI → Manager → Custom Nodes → Install from Git URL.**
 2. Paste the following:
 [ComfyUI-QwenEdit-Urbanism-by-UGA →](https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA)  
 3. Click **Install.**
 4. Restart **ComfyUI.**
-5. The nodes will appear under **Urbanism / UGA** categories.
 
 ### 🧰 Option 2 — Manual Install
 
@@ -46,6 +44,7 @@ ComfyUI/custom_nodes/
 git clone https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA.git
 3. Restart **ComfyUI.**
 
+The nodes will appear under **image/sequence** and **image/random** categories.
 
 ---
 
