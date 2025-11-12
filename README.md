@@ -15,6 +15,12 @@ All processing runs fully offline — no API, no cloud — making it ideal for a
 | **v1.0** | Basic Qwen Image Edit workflow for single-image editing. Adapts automatically to input ratio and size. | [v1.0 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-urbanism-comfyui-qwen-gguf/) |
 | **v1.1** | Adds multi-image editing and advanced sampling capabilities for complex scenes. | [v1.1 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/) |
 
+## 📦 Download ComfyUI Workflows
+
+| Version | Workflow File |
+|---|---|
+| v1.0 | [Download Qwen-Edit-UGA-v1.0.json](https://raw.githubusercontent.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/main/Qwen-Edit-UGA-v1.0.json) |
+| v1.1 | [Download Gwen-Edit-UGA-v1.1.json](https://raw.githubusercontent.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/main/Qwen-Edit-UGA-v1.1.json) |
 
 ---
 
