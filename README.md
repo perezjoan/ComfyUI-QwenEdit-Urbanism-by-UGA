@@ -13,6 +13,7 @@
 |----------|--------------|-----------|
 | **v1.0** | Basic Qwen Image Edit workflow for single-image editing. Adapts automatically to input ratio and size. | [v1.0 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-urbanism-comfyui-qwen-gguf/) |
 | **v1.1** | Adds image editing from a reference image and advanced sampling capabilities for complex scenes. | [v1.1 Tutorial →](https://urbangeoanalytics.com/local-ai-image-editing-for-urbanism-v1-1/) |
+| **v1.2** | Add sequential & Batch Edits | [v1.2 Tutorial →](https://urbangeoanalytics.com/qwen-image-edit-for-urbanism-v1-2-custom-nodes-sequential-processing/) |
 
 ### Download the Workflows
 Right-click any link above and choose **“Save link as…”** to download the workflow file. Then, open **ComfyUI → File → Load → Workflow**, and select the downloaded `.json` file to load it into your workspace.
@@ -20,6 +21,7 @@ Right-click any link above and choose **“Save link as…”** to download the 
 |---|---|
 | v1.0 | [Download Qwen-Edit-UGA-v1.0.json](https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/blob/main/Qwen-Edit-UGA-v1.0.json) |
 | v1.1 | [Download Gwen-Edit-UGA-v1.1.json](https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/blob/main/Qwen-Edit-UGA-v1.1.json) |
+| v1.2 | [Download Gwen-Edit-UGA-v1.2.json](https://github.com/perezjoan/ComfyUI-QwenEdit-Urbanism-by-UGA/blob/main/Qwen-Edit-UGA-v1.2.json) |
 
 ---
 
